@@ -1,0 +1,11 @@
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\bin\Debug\BD.exe.config
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\bin\Debug\BD.exe
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\bin\Debug\BD.pdb
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Debug\BD.Form2.resources
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Debug\BD.exe
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Debug\BD.pdb
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Debug\BD.csproj.AssemblyReference.cache

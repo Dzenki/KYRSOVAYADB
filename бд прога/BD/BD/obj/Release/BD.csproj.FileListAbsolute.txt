@@ -1,0 +1,10 @@
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\bin\Release\BD.exe.config
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\bin\Release\BD.exe
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\bin\Release\BD.pdb
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Release\BD.Form1.resources
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Release\BD.Form2.resources
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Release\BD.Properties.Resources.resources
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Release\BD.csproj.GenerateResource.cache
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Release\BD.csproj.CoreCompileInputs.cache
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Release\BD.exe
+C:\Users\o.glsh\Desktop\бд прога\BD\BD\obj\Release\BD.pdb
